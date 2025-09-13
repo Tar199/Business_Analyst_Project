@@ -25,3 +25,5 @@ To uncover key market trends, evaluate genre and developer performance, and buil
 
 📌 Takeaway:
 Combining data science with domain knowledge can reveal powerful patterns and drive smarter decisions in the gaming industry.
+
+<img width="1332" height="726" alt="image" src="https://github.com/user-attachments/assets/592b29c3-92be-42bf-92a9-d22eb3b8c188" />
